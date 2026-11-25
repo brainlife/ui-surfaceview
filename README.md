@@ -47,6 +47,15 @@ brainlife.io serves the built files under `/ui/` and passes the dataset location
 
 [ui-niivue](https://github.com/brainlife/ui-niivue) (current in-browser viewer) · [abcd-novnc](https://github.com/brainlife/abcd-novnc) (desktop viewer launcher) · [warehouse-next](https://github.com/brainlife/warehouse-next) (datatypes and their viewers)
 
+<details>
+<summary><b>📜 Previous README (technical details)</b></summary>
+
+This is a unique visualizer that shows the surface of major white matter tracts.
+
+[Demo on brainlife.io](https://brainlife.io/ui/surfaces/) | [brainlife.io DOI](https://doi.org/10.25663/brainlife.ui.4)
+
+</details>
+
 ## 📚 Citing
 
 If you use brainlife.io in your work, please cite:
